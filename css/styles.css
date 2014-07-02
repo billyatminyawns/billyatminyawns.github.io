@@ -1,5 +1,12 @@
 body {
 	background-color: blue;
-	
+}
+
+
+
+@media screen and (min-width: 350px){
+	body {
+		background-color: green;
+	}
 }
 
